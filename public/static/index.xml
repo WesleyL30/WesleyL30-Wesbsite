@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statics on Wesley Long</title>
+    <link>http://wesleylong30.netlify.app/static/</link>
+    <description>Recent content in Statics on Wesley Long</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Nov 2021 20:27:29 -0500</lastBuildDate><atom:link href="http://wesleylong30.netlify.app/static/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://wesleylong30.netlify.app/static/about-me/</link>
+      <pubDate>Tue, 16 Nov 2021 20:27:29 -0500</pubDate>
+      
+      <guid>http://wesleylong30.netlify.app/static/about-me/</guid>
+      <description>About me My Interests I am a Software Developer who is very interested in Artificial Intelligence and streamlining the education of Computer Science.</description>
+    </item>
+    
+  </channel>
+</rss>

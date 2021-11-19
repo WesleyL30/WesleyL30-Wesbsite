@@ -1,3 +1,40 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://wesleylong30.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Wesley Long'
+theme = "gokarna"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about-me"
+    name = "About Me"
+    url = "/aboutme/"
+    weight = 2
+
+[params]
+  # URL for the avatar on homepage
+  avatarURL = ""
+
+  # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
+  avatarSize = ""
+
+  # Description to display on homepage
+  description = "Sky above, sand below & peace within"
+
+  # Accent color is displayed when you hover over <a> tags
+  accentColor = "#FF4D4D"
+
+  # You can use this to inject any HTML in the <head> tag.
+  # Ideal usecase for this is to import custom js/css or add your analytics snippet
+  customHeadHTML = ""
+
+  # Keywords relevant for SEO
+  metaKeywords = ["portfolio", "gokarna", "hugo"]
+
+  # Footer text
+  footer = "Wesley Long"
