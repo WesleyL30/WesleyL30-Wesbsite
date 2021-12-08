@@ -13,8 +13,26 @@ theme = "gokarna"
   [[menu.main]]
     identifier = "about-me"
     name = "About Me"
-    url = "/aboutme/"
+    url = "/about-me/"
     weight = 2
+  
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+  
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+
+    [[menu.tools]]
+    identifier = "github"
+    pre = "<span data-feather='Github'></span>"
+    url = "https://github.com/WesleyL30"
+    weight = 5
 
 [params]
   # URL for the avatar on homepage
@@ -24,7 +42,7 @@ theme = "gokarna"
   avatarSize = ""
 
   # Description to display on homepage
-  description = "Sky above, sand below & peace within"
+  description = "Software Developer"
 
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#FF4D4D"
@@ -38,3 +56,8 @@ theme = "gokarna"
 
   # Footer text
   footer = "Wesley Long"
+
+    socialIcons = [
+      {name = "github", url = "https://github.com/WesleyL30/"},
+      {name = "linkedin", url = "https://www.linkedin.com/in/long-wesley/"},
+    ]
