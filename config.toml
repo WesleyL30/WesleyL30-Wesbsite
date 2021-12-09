@@ -26,20 +26,20 @@ theme = "gokarna"
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 4
 
-    [[menu.tools]]
-    identifier = "github"
-    pre = "<span data-feather='Github'></span>"
-    url = "https://github.com/WesleyL30"
-    weight = 5
+  [[menu.tools]]
+  identifier = "github"
+  pre = "<span data-feather='Github'></span>"
+  url = "https://github.com/WesleyL30"
+  weight = 6
 
 [params]
   # URL for the avatar on homepage
-  avatarURL = ""
+  avatarURL = "/static/IMG_6967.PNG"
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
-  avatarSize = ""
+  avatarSize = "size-s"
 
   # Description to display on homepage
   description = "Software Developer"

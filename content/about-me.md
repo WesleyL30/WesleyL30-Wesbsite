@@ -5,7 +5,7 @@ draft: false
 type: "page"
 ---
 ## Resume
-[Put Resume Here](/Resume.pdf){:target="_blank"}
+[Take a look here](/Resume.pdf)
 
 ## Education
 **Allegheny College:**
