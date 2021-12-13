@@ -12,6 +12,7 @@ type: "page"
 - Major: Computer Science
 - Minor: Art Science and Innovation
 - GPA: 3.7
+- Expected Graduation Date: May, 2022
 
 
 ## My Interests
